@@ -14,7 +14,7 @@
 * Remove duplicate rows and verify the removal
 * Find columns with missing values
 * Impute the missing values
-* Perform Data Standardizing and Normalizing for certain columns
+* Perform Data Normalizing for certain columns
 
 
 ## Tools Used
