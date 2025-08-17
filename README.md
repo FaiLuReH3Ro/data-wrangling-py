@@ -28,5 +28,6 @@
 
 Click on the link below to view or download the notebook.
 
+[Data Wrangling - Python](https://github.com/FaiLuReH3Ro/DataWrangling-Py/blob/main/Data_Wrangling.ipynb)
 
 
