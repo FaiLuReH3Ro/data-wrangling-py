@@ -28,12 +28,12 @@
 
 Click on the link below to view or download the notebook.
 
-[Data Wrangling - Python](https://github.com/FaiLuReH3Ro/DataWrangling-Py/blob/main/Data_Wrangling.ipynb)
+[Data Wrangling - Python](https://github.com/FaiLuReH3Ro/data-wrangling-py/blob/main/Data_Wrangling.ipynb)
 
 ## Clean Dataset
 
 Clicke on the link below to download the cleaned CSV file.
 
-[Clean Survey Data](https://github.com/FaiLuReH3Ro/DataWrangling-Py/blob/main/clean_survey_data.csv)
+[Clean Survey Data](https://github.com/FaiLuReH3Ro/data-wrangling-py/blob/main/clean_survey_data.csv)
 
 
