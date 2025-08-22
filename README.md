@@ -2,6 +2,12 @@
 
 <p>This is part of the <a href = 'https://github.com/FaiLuReH3Ro/ibm-da-capstone-py'>IBM Data Analyst Capstone - Python</a> project and part of the <a href = 'https://github.com/FaiLuReH3Ro/ibm-da-capstone-py?tab=readme-ov-file#data-wrangling'>Data Wrangling</a> section.</p>
 
+## Jupyter Notebook
+
+Click on the link below to view or download the notebook.
+
+[Data Wrangling - Python](https://github.com/FaiLuReH3Ro/data-wrangling-py/blob/main/Data_Wrangling.ipynb)
+
 ## Dataset Used
 
 [Dataset Source](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/VYPrOu0Vs3I0hKLLjiPGrA/survey-data-with-duplicate.csv) 
@@ -24,16 +30,8 @@
 * Pandas
 * Numpy
 
-## Jupyter Notebook
-
-Click on the link below to view or download the notebook.
-
-[Data Wrangling - Python](https://github.com/FaiLuReH3Ro/data-wrangling-py/blob/main/Data_Wrangling.ipynb)
-
 ## Clean Dataset
 
-Clicke on the link below to download the cleaned CSV file.
+Click on the link below to download the cleaned CSV file.
 
 [Clean Survey Data](https://github.com/FaiLuReH3Ro/data-wrangling-py/blob/main/clean_survey_data.csv)
-
-
