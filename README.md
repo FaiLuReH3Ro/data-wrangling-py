@@ -1,20 +1,20 @@
-# Data Wrangling - Python
+# Data Wrangling - Python 🔧
 
 <p>This repository is part of the <a href = 'https://github.com/FaiLuReH3Ro/ibm-da-capstone-py'>IBM Data Analyst Capstone - Python</a> project and part of the <a href = 'https://github.com/FaiLuReH3Ro/ibm-da-capstone-py?tab=readme-ov-file#data-wrangling'>Data Wrangling</a> section.</p>
 
-## Jupyter Notebook
+## 📓 Jupyter Notebook
 
-Click on the link below to view or download the notebook.
+> Click on the link below to view or download the notebook.
 
-[Data Wrangling - Python](https://github.com/FaiLuReH3Ro/data-wrangling-py/blob/main/Data_Wrangling.ipynb)
+👉 [Data Wrangling - Python](https://github.com/FaiLuReH3Ro/data-wrangling-py/blob/main/Data_Wrangling.ipynb)
 
-## Dataset Used
+## 📈 Dataset Used
 
-[Dataset Source](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/VYPrOu0Vs3I0hKLLjiPGrA/survey-data-with-duplicate.csv) 
+📥 [Dataset Source](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/VYPrOu0Vs3I0hKLLjiPGrA/survey-data-with-duplicate.csv) 
 
 > Note: Clicking on the link will download a CSV file
 
-## Objectives
+## 🚀 Objectives
 
 * Identify duplicate rows in the dataset
 * Remove duplicate rows and verify the removal
@@ -23,15 +23,15 @@ Click on the link below to view or download the notebook.
 * Perform Data Normalizing for certain columns
 
 
-## Tools Used
+## 🛠️ Tools Used
 
 * Jupyter notebook
 * Python
 * Pandas
 * Numpy
 
-## Clean Dataset
+## ✨ Clean Dataset
 
-Click on the link below to download the cleaned CSV file.
+> Click on the link below to download the cleaned CSV file.
 
-[Clean Survey Data](https://github.com/FaiLuReH3Ro/data-wrangling-py/blob/main/clean_survey_data.csv)
+📌 [Clean Survey Data](https://github.com/FaiLuReH3Ro/data-wrangling-py/blob/main/clean_survey_data.csv)
