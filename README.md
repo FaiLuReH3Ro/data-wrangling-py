@@ -14,7 +14,11 @@
 
 ## 📈 Dataset Used
 
+The primary dataset used is the 2024 Stack Overflow global survey. Stack Overflow is a Q&A website for programmers where developers ask coding questions and get answers from the community. The survey aims to capture insights on developers' experiences, tools, technologies, and preferences, offering a snapshot of the software development landscape
+
 🔗 [Dataset Source](https://www.kaggle.com/datasets/failureh3ro/stack-overflow-survey-data-2024-subset/data) (Kaggle)
+
+> Subset of the original data
 
 ## 🚀 Objectives
 
