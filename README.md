@@ -4,15 +4,17 @@
 
 ## 📓 Jupyter Notebook
 
-> Click on the link below to view or download the notebook.
+> Notebook on Kaggle
 
-👉 [Data Wrangling - Python](https://github.com/FaiLuReH3Ro/data-wrangling-py/blob/main/Data_Wrangling.ipynb)
+👉 [Kaggle Notebook](https://www.kaggle.com/code/failureh3ro/data-wrangling-python/notebook)
+
+> Click on the link below to view or download the notebook on GitHub.
+
+👉 [GitHub Notebook](https://github.com/FaiLuReH3Ro/data-wrangling-py/blob/main/Data_Wrangling.ipynb)
 
 ## 📈 Dataset Used
 
-📥 [Dataset Source](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/VYPrOu0Vs3I0hKLLjiPGrA/survey-data-with-duplicate.csv) 
-
-> Note: Clicking on the link will download a CSV file
+🔗 [Dataset Source](https://www.kaggle.com/datasets/failureh3ro/stack-overflow-survey-data-2024-subset/data) (Kaggle)
 
 ## 🚀 Objectives
 
