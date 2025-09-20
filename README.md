@@ -4,10 +4,14 @@
 
 ## 📓 Jupyter Notebook
 
-> Notebook on Kaggle
+> [!NOTE]
+> Click on the link below to view the notebook on Kaggle.
 
 👉 [Kaggle Notebook](https://www.kaggle.com/code/failureh3ro/data-wrangling-python/notebook)
 
+<br>
+
+> [!NOTE]
 > Click on the link below to view or download the notebook on GitHub.
 
 👉 [GitHub Notebook](https://github.com/FaiLuReH3Ro/data-wrangling-py/blob/main/Data_Wrangling.ipynb)
@@ -18,6 +22,7 @@ The primary dataset used is the 2024 Stack Overflow global survey. Stack Overflo
 
 🔗 [Dataset Source](https://www.kaggle.com/datasets/failureh3ro/stack-overflow-survey-data-2024-subset/data) (Kaggle)
 
+> [!NOTE]
 > Subset of the original data
 
 ## 🚀 Objectives
